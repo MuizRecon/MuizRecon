@@ -68,4 +68,4 @@ Expected Graduation: 2027
 - Email: [abdulmuizadelabu0@gmail.com]
 ---
 
-> *"Defensive security is not just about detecting attacks—it's about understanding them, responding effectively, and preventing them from happening again."*
+> *"Defensive security is not just about detecting attacks, it's about understanding them, responding effectively, and preventing them from happening again."*
