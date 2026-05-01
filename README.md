@@ -1,4 +1,4 @@
-# Hi, I'm ADELABU ABDULMUIZ ADEKUNLE
+# Hi, I'm  Abdulmuiz Adelabu Adekunle
 
 ## Cybersecurity Analyst | SOC | Detection Engineering | Web Application Security | API Security
 
