@@ -2,7 +2,7 @@
 
 ## Cybersecurity Analyst | Web Application Security | API Security| SOC & Detection Foundation 
 
-I'm a cybersecurity practitioner focused on blue team operations, web application security, and API security. The defensive side of cybersecurity is where I am building my career.
+I'm a cybersecurity practitioner focused on blue team operations, web application security, and API security. The offensive side of cybersecurity is where I am building my career.
 
 My interest in web application and API security goes beyond simply identifying vulnerabilities. I focus on understanding how to detect attacks, implement effective defenses, and build systems that identify threats early. The intersection of SOC operations and application security is where I thrive.
 
