@@ -1,6 +1,6 @@
 # Hi, I'm  Abdulmuiz Adelabu Adekunle
 
-## Cybersecurity Analyst | SOC | Detection Engineering | Web Application Security | API Security
+## Cybersecurity Analyst | Web Application Security | API Security| SOC & Detection Foundation 
 
 I'm a cybersecurity practitioner focused on blue team operations, web application security, and API security. The defensive side of cybersecurity is where I am building my career.
 
