@@ -1,25 +1,23 @@
 # Hi, I'm  Abdulmuiz Adelabu Adekunle
 
-## Cybersecurity Analyst | Web Application Security | API Security| SOC & Detection Foundation 
+## Web Application Security | API Security| SOC & Detection Foundation 
 
-I'm a cybersecurity practitioner focused on blue team operations, web application security, and API security. The offensive side of cybersecurity is where I am building my career.
-
-My interest in web application and API security goes beyond simply identifying vulnerabilities. I focus on understanding how to detect attacks, implement effective defenses, and build systems that identify threats early. The intersection of SOC operations and application security is where I thrive.
-
-I have developed hands-on experience in Security Operations Center (SOC) monitoring, threat detection, log analysis, and incident response. I work extensively with tools like Wazuh, ELK Stack, and ModSecurity, approaching every alert with a simple but critical mindset:
-
-
+I'm a cybersecurity practitioner focused on web application security, API security. Offensive security is where I'm building my career.
+ 
+I've developed hands-on experience in web application testing, API vulnerability assessment, SOC monitoring, and incident response. I've exploited real vulnerabilities including SQL Injection, XSS, CSRF, and Command Injection in live environments, built detection pipelines using Wazuh and ELK Stack, and authored full incident response reports documenting attack timelines and remediation steps.
+ 
+My approach goes beyond finding vulnerabilities, I want to understand how to exploit them thoroughly, document them professionally, and help businesses fix them before attackers do. That combination of offensive skill and clear communication is what I bring to every engagement.
 
 ---
 
-## 🛡️ Core Areas of Expertise
+##  Core Areas of Expertise
 - Web Application Security
 - API Security
 - Security Monitoring & Alert Triage
 
 ---
 
-## 🔧 Security Tools & Technologies
+##  Security Tools & Technologies
 
 - **SIEM & Monitoring:** Wazuh, ELK Stack
 - **Web Security:** ModSecurity, Burp Suite, OWASP ZAP
@@ -29,16 +27,16 @@ I have developed hands-on experience in Security Operations Center (SOC) monitor
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
-- EC-Council Certified
+- Ethical Hacking Essentials- EC-Council Certified
 - Cisco Certified
-- APISEC University Certified
+- API Security Practitioner- APISEC University Certified
 - ISC2 Certified
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science (B.Sc.) in Cybersecurity**  
 Osun State University  
@@ -47,7 +45,7 @@ Expected Graduation: 2027
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/abdulmuiz-adelabu-766676344/]
 - Email: [abdulmuizadelabu0@gmail.com]
